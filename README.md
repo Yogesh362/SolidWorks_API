@@ -1,1 +1,0 @@
-# SolidWorks_API
